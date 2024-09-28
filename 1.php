@@ -5,6 +5,7 @@ echo '11122223333';
 echo 'test';
 echo "0";
 echo "1";
+echo "2";
 
 ?>
 
